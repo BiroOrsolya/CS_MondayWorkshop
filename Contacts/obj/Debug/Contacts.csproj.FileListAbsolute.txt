@@ -1,0 +1,9 @@
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+c:\users\orsolya\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
